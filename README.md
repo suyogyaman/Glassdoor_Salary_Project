@@ -68,5 +68,4 @@ Distributed under the XYZ license. See ``LICENSE`` for more information.
 5. Create a new Pull Request
 
 ## References
-1. Glassdoor Scrapper :
-https://towardsdatascience.com/selenium-tutorial-scraping-glassdoor-com-in-10-minutes-3d0915c6d905
+1. Glassdoor Scrapper : https://towardsdatascience.com/selenium-tutorial-scraping-glassdoor-com-in-10-minutes-3d0915c6d905
