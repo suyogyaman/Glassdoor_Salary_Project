@@ -1,5 +1,10 @@
 # Glassdoor_Salary_Project
-A complete data science project from scratch.
+A complete data science project from scratch using Python.
+
+1. Web scrapping data science job details from Glassdoor.com
+2. Data Collection Process
+3. Data Cleaning
+
 
 ## Installation
 
