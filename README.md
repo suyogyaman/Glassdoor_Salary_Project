@@ -1,12 +1,6 @@
 # Glassdoor_Salary_Project
 A complete data science project from scratch.
 
-[![NPM Version][npm-image]][npm-url]
-[![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]][npm-url]
-
-![](header.png) Header image file
-
 ## Installation
 
 OS X & Linux:
