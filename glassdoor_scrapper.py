@@ -153,7 +153,6 @@ def get_jobs(keyword, num_jobs, verbose,pth, delay_timer):
                 sector = -1
                 revenue = -1
                 competitors = -1
-
                 
             if verbose:
                 print("Headquarters: {}".format(headquarters))
